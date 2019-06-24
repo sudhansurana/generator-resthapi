@@ -7,7 +7,7 @@
   "dependencies": {
     "@hapi/hapi": "^18.3.1",
     "mongoose": "^5.6.0",
-    "rest-hapi": "https://github.com/sudhansurana/rest-hapi@1.6.2"
+    "rest-hapi": "https://github.com/sudhansurana/rest-hapi"
   },
   "devDependencies": {
     "nodemon": "^1.19.1",
